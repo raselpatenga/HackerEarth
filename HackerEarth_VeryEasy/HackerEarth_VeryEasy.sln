@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roy_and_Profile_Picture", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goki_and_his_breakup", "Goki_and_his_breakup\Goki_and_his_breakup.csproj", "{C38C42C5-D91B-4652-BA70-CB558F1E7646}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{D69CD1ED-312A-47F2-8927-AF6188C94CE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
