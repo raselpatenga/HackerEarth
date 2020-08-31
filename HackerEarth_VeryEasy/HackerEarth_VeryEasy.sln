@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_am_easy", "I_am_easy\I_am
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roy_and_Profile_Picture", "Roy_and_Profile_Picture\Roy_and_Profile_Picture.csproj", "{E36277CD-2DBB-42A6-A3D8-E9A75F4D6AE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goki_and_his_breakup", "Goki_and_his_breakup\Goki_and_his_breakup.csproj", "{C38C42C5-D91B-4652-BA70-CB558F1E7646}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E36277CD-2DBB-42A6-A3D8-E9A75F4D6AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36277CD-2DBB-42A6-A3D8-E9A75F4D6AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36277CD-2DBB-42A6-A3D8-E9A75F4D6AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38C42C5-D91B-4652-BA70-CB558F1E7646}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
