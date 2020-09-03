@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.Movement", "A.Movement\A.Movement.csproj", "{501CB490-B332-44AA-B730-731E7D74C628}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoos", "Zoos\Zoos.csproj", "{FBFBEEB0-B60C-4C36-8408-5CA9EA1B2AE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{501CB490-B332-44AA-B730-731E7D74C628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{501CB490-B332-44AA-B730-731E7D74C628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{501CB490-B332-44AA-B730-731E7D74C628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFBEEB0-B60C-4C36-8408-5CA9EA1B2AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFBEEB0-B60C-4C36-8408-5CA9EA1B2AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFBEEB0-B60C-4C36-8408-5CA9EA1B2AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFBEEB0-B60C-4C36-8408-5CA9EA1B2AE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
