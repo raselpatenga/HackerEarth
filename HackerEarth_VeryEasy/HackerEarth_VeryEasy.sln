@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goki_and_his_breakup", "Gok
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{D69CD1ED-312A-47F2-8927-AF6188C94CE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.Movement", "A.Movement\A.Movement.csproj", "{501CB490-B332-44AA-B730-731E7D74C628}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69CD1ED-312A-47F2-8927-AF6188C94CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501CB490-B332-44AA-B730-731E7D74C628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501CB490-B332-44AA-B730-731E7D74C628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501CB490-B332-44AA-B730-731E7D74C628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501CB490-B332-44AA-B730-731E7D74C628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
