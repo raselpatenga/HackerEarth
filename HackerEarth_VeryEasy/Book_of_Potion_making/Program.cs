@@ -12,16 +12,40 @@ namespace Book_of_Potion_making
         {
             string input = Console.ReadLine();
             int sum = 0, x = 1;
+            char[] inputChar;
 
-            if(input.Length == 3)
+            if(input.Length == 10)
             {
-                for (int i = 0; i < input.Length; i++)
+                inputChar = input.ToCharArray();
+
+                foreach(var item in inputChar)
                 {
-                    sum = input[i] * x;
+                    if (char.IsDigit(item))
+                    {
+                        sum += item * x;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Illegal ISBN");
+                        break;
+                    }
+                    x++;
                 }
-                x++;
+
+                if(sum % 11 == 0)
+                {
+                    Console.WriteLine("Legal ISBN");
+                }
+                else
+                {
+                    Console.WriteLine("Illegal ISBN");
+                }
             }
-            Console.WriteLine(sum);
+            else
+            {
+                Console.WriteLine("Illegal ISBN");
+            }
+           
             Console.ReadKey();
 
         }
