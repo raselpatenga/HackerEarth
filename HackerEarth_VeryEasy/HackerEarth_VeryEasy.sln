@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toggle_String", "Toggle_Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book_of_Potion_making", "Book_of_Potion_making\Book_of_Potion_making.csproj", "{3F5B3AC4-985D-4111-A433-E6D9DDC1207E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duration", "Duration\Duration.csproj", "{6F3466DD-CCC8-4139-8A0A-10E099405EFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{3F5B3AC4-985D-4111-A433-E6D9DDC1207E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F5B3AC4-985D-4111-A433-E6D9DDC1207E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F5B3AC4-985D-4111-A433-E6D9DDC1207E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3466DD-CCC8-4139-8A0A-10E099405EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3466DD-CCC8-4139-8A0A-10E099405EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3466DD-CCC8-4139-8A0A-10E099405EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3466DD-CCC8-4139-8A0A-10E099405EFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
