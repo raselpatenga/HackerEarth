@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial!", "Factorial!\Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Divisors", "Count_Divisors\Count_Divisors.csproj", "{A91DF39B-A60A-4B45-B2AF-A01C06CA58DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VC_Pairs", "VC_Pairs\VC_Pairs.csproj", "{16B43ADC-318A-48E5-8FA2-C10E42300201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A91DF39B-A60A-4B45-B2AF-A01C06CA58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91DF39B-A60A-4B45-B2AF-A01C06CA58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91DF39B-A60A-4B45-B2AF-A01C06CA58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B43ADC-318A-48E5-8FA2-C10E42300201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B43ADC-318A-48E5-8FA2-C10E42300201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B43ADC-318A-48E5-8FA2-C10E42300201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B43ADC-318A-48E5-8FA2-C10E42300201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
