@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print_the_Numbers", "Print_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back_To_School", "Back_To_School\Back_To_School.csproj", "{AC1EDC1E-25D1-4956-856C-35B0AF738893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lift_queries", "Lift_queries\Lift_queries.csproj", "{56AFCBF5-2AA2-4A3A-B39A-8E382CA633F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{AC1EDC1E-25D1-4956-856C-35B0AF738893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC1EDC1E-25D1-4956-856C-35B0AF738893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC1EDC1E-25D1-4956-856C-35B0AF738893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AFCBF5-2AA2-4A3A-B39A-8E382CA633F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AFCBF5-2AA2-4A3A-B39A-8E382CA633F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AFCBF5-2AA2-4A3A-B39A-8E382CA633F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AFCBF5-2AA2-4A3A-B39A-8E382CA633F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
