@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friends_Relationship", "Fri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aman_And_Mr.Sharma", "Aman_And_Mr.Sharma\Aman_And_Mr.Sharma.csproj", "{B9F24204-1F06-41EB-99AC-64B1C48EF278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Life_the_Universe_and_Everything", "Life_the_Universe_and_Everything\Life_the_Universe_and_Everything.csproj", "{EA515C17-CCC9-405E-B969-C98376A4AB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cost_of_balloons", "Cost_of_balloons\Cost_of_balloons.csproj", "{E0BE4E5E-214F-480A-A3C5-1BA3DF3B2307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{B9F24204-1F06-41EB-99AC-64B1C48EF278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9F24204-1F06-41EB-99AC-64B1C48EF278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9F24204-1F06-41EB-99AC-64B1C48EF278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA515C17-CCC9-405E-B969-C98376A4AB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA515C17-CCC9-405E-B969-C98376A4AB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA515C17-CCC9-405E-B969-C98376A4AB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA515C17-CCC9-405E-B969-C98376A4AB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BE4E5E-214F-480A-A3C5-1BA3DF3B2307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BE4E5E-214F-480A-A3C5-1BA3DF3B2307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BE4E5E-214F-480A-A3C5-1BA3DF3B2307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BE4E5E-214F-480A-A3C5-1BA3DF3B2307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
