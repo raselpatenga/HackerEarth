@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cost_of_balloons", "Cost_of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisibility", "Divisibility\Divisibility.csproj", "{28C7F43D-1871-4D21-8075-3AD1127CB488}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ladderophilia", "Ladderophilia\Ladderophilia.csproj", "{B767D030-D616-4C38-A1F5-AC508B9779C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic_Progression", "Arithmetic_Progression\Arithmetic_Progression.csproj", "{05B10EA7-D10D-45F8-BC1A-1039D394576E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{28C7F43D-1871-4D21-8075-3AD1127CB488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28C7F43D-1871-4D21-8075-3AD1127CB488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28C7F43D-1871-4D21-8075-3AD1127CB488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B767D030-D616-4C38-A1F5-AC508B9779C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B767D030-D616-4C38-A1F5-AC508B9779C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B767D030-D616-4C38-A1F5-AC508B9779C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B767D030-D616-4C38-A1F5-AC508B9779C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B10EA7-D10D-45F8-BC1A-1039D394576E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B10EA7-D10D-45F8-BC1A-1039D394576E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B10EA7-D10D-45F8-BC1A-1039D394576E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B10EA7-D10D-45F8-BC1A-1039D394576E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

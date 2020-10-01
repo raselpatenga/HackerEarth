@@ -10,12 +10,59 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            string[] strArray = Console.ReadLine().Split(' ');
-            int[] intArray = Array.ConvertAll(strArray, int.Parse);
+            int input = int.Parse(Console.ReadLine());
+            long result = 0, count;
 
-            string isDivisible = intArray[n - 1] % 10 == 0 ? "Yes" : "No";
-            Console.WriteLine(isDivisible);
+            while(input != 0) { 
+
+                string[] arr = Console.ReadLine().Split(' ');
+                var a = int.Parse(arr[0]);
+                var b = int.Parse(arr[1]);
+                var c = int.Parse(arr[2]);
+
+                count = System.Math.Abs(2 * b - (a + c));
+                if(count / 2 == 0)
+                {
+                    result = count / 2;
+                }
+                else
+                {
+                    result = count / 2 + 1;
+                }
+                input--;
+            }
+            Console.WriteLine(result);
+            //int noOfTestcases = int.Parse(Console.ReadLine());
+            //long result, time;
+            //var output = new StringBuilder();
+            //for (int i = 0; i < noOfTestcases; i++)
+            //{
+            //    string[] arr = Console.ReadLine().Split(' ');
+            //    var a = int.Parse(arr[0]);
+            //    var b = int.Parse(arr[1]);
+            //    var c = int.Parse(arr[2]);
+
+            //    result = a - 2 * b + c;
+            //    if (result < 0)
+            //    {
+            //        result *= -1;
+            //    }
+
+            //    time = result / 2;
+
+            //    time += result % 2;
+            //    output.AppendLine(time.ToString());
+            //}
+            //Console.WriteLine(output.ToString());
+
+
+
+            //int n = int.Parse(Console.ReadLine());
+            //string[] strArray = Console.ReadLine().Split(' ');
+            //int[] intArray = Array.ConvertAll(strArray, int.Parse);
+
+            //string isDivisible = intArray[n - 1] % 10 == 0 ? "Yes" : "No";
+            //Console.WriteLine(isDivisible);
 
 
             //int numOfTestCases = int.Parse(Console.ReadLine());
