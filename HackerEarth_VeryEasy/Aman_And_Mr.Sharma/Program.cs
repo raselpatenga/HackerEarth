@@ -8,6 +8,7 @@ namespace Aman_And_Mr.Sharma
 {
     class Program
     {
+        /// SASAS
         static void Main(string[] args)
         {
             int input = int.Parse(Console.ReadLine());
